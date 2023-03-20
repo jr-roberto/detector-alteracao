@@ -18,8 +18,11 @@ Os Arquivos [ resumo_vendas.csv , base_vendas.csv ] se trata do resultado de uma
 
 Um pouco sobre o exemplo:
 
-    Esse código pode ser usado em uma variedade de situações, como no gerenciamento de estoques ou na análise de dados de vendas. Ele permite que os usuários recebam atualizações em tempo real sobre as vendas, sem a necessidade de verificar manualmente o arquivo de vendas.
+Esse código pode ser usado em uma variedade de situações, como no gerenciamento de estoques ou na análise de dados de vendas. Ele permite que os usuários recebam atualizações em tempo real sobre as vendas, sem a necessidade de verificar manualmente o arquivo de vendas.
 
-    Este código é um excelente exemplo de como a automação de processos pode ser usada para melhorar a eficiência do trabalho e, consequentemente, aumentar a produtividade. Através dele, podemos economizar tempo e esforço e nos concentrar em tarefas mais importantes e estratégicas.
+Este código é um excelente exemplo de como a automação de processos pode ser usada para melhorar a eficiência do trabalho e, consequentemente, aumentar a produtividade. Através dele, podemos economizar tempo e esforço e nos concentrar em tarefas mais importantes e estratégicas.
+
+![publi_g](https://user-images.githubusercontent.com/91014834/226219047-d7314332-8e30-4457-ba81-5f9a7fdf996d.gif)
+
 
 Obrigado.
